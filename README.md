@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jesse Ivers -- some call me Jivers. I am a biomedical engineer by training, but my PhD research led me to computer science. I found out I love the challenge of big-data analytics, particularly using machine learning and deep learning. Now, I am pushing my research more and more to utilize these interests to solve biomedical problems pertaining to cancer treatment. 
+My name is Jesse Ivers -- some call me Jivers. I am a biomedical engineer by training, but my PhD research led me to data science. I found out I love the challenge of big-data analytics, particularly using machine learning and deep learning. Now, I am pushing my research more and more to utilize these interests to solve biomedical problems pertaining to cancer treatment. 
 
 I mostly use Python (and Jupyter) and MATLAB, but have dabbled in R, too. I've self-taught the majority of what I know in these languages, and am always looking for an excuse to learn the next. 
 
