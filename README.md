@@ -9,7 +9,6 @@ The projects you see here are a sample of some of my work over the past several 
 - 🔭 I’m currently working on a parallelized Monte Carlo package to simulate photonics systems. 🔬
 - 🌱 I’m currently learning how to improve model training times through model distribution and mixed-precision training. 
 - 👯 I’m looking to collaborate on interesting side-projects, particualy pertaining to data-analytics of FIT files. 🏃🚴🏻‍♂️
-- 🤔 I’m looking for help with good reseources to learn Rust (I hear its the language to beat all languages).
 - 💬 Ask me about multivariate histogram analysis of multi-photon-derived images. 😉
 - 📫 How to reach me: iversjesse@gmail.com
 - ⚡ Fun fact: I am fluent in the South Indian language, Telugu ఎందుకంటే నేను హైదరాబాద్‌లో మూడేళ్లు నివసించాను.
